@@ -1,3 +1,4 @@
+# This file was auto-created by selecting "Python" in the default .gitignore option during project creation
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
